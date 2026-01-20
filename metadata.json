@@ -1,0 +1,5 @@
+{
+  "name": "A* Pathfinder Visualizer",
+  "description": "An interactive visualization of the A* pathfinding algorithm. Draw walls and watch the algorithm find the shortest path in real-time.",
+  "requestFramePermissions": []
+}
