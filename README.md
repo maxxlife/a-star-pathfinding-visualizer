@@ -1,6 +1,12 @@
 # A* Pathfinding Visualizer
 
 A robust, interactive visualization tool for the A* pathfinding algorithm, built with React and TypeScript.
+## 📺 Demo Video
+
+<!-- Paste your YouTube/Loom/Vimeo link here -->
+[![Demo Video](https://img.youtube.com/vi/z7ycv52EDmk/maxresdefault.jpg)](https://youtu.be/z7ycv52EDmk)
+
+> *Watch the video above to see the simulation in action.*
 
 ![Application Screenshot](./images/screenshot.png)
 
