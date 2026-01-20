@@ -2,7 +2,7 @@
 
 A robust, interactive visualization tool for the A* pathfinding algorithm, built with React and TypeScript.
 
-![Application Screenshot](images/screenshot.png)
+![Application Screenshot](./images/screenshot.png)
 
 ## Features
 
